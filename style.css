@@ -459,7 +459,7 @@ footer {
 }
 
 
-@media (min-width: 769px){
+@media only screen and (min-width: 769px){
 header {
 height: 70px;
 }
@@ -503,7 +503,7 @@ justify-content: center;
   border: 10px solid white;
   display:flex;
   justify-content:center;
-  bottom:180px;
+  bottom:auto;
 }
 
 .Wave{
@@ -513,13 +513,13 @@ justify-content: center;
 }
 }
 
-@media (min-width: 480px){
+ @media only screen and (min-width: 400px) and (max-width:768px){
 .Ash-image{
   height:300px; 
   border-radius: 70%; 
   border: 10px solid white;
   display:flex;
   justify-content:center;
-  bottom:250px;
-}
+  bottom: auto;
+} */
 }
