@@ -17,11 +17,11 @@
 - [/] Version controlled with Git
 - [/] Deployed on GitHub pages.
 - [/] Implements responsive design principles.
-- [ ] Uses semantic HTML.
+- [/] Uses semantic HTML.
 
 ### Bonus (optional)
 {{ Hover states have been added for the hamburger menu, it hightlights portion that is being poited, there is also an focus state for the submit button. No Javascript has been added but the Hamburger menu is fully functional.}}
-- [ ] Different styles for active, hover and focus states.
+- [/] Different styles for active, hover and focus states.
 - [ ] Include JavaScript to add some dynamic elements to your site.(Extratricky!)
 
 ### Screenshots> Please include the following:
@@ -30,11 +30,41 @@
 
 #### {{ Desktop version of the webpage }}
 
-![ {{full screen on desktop }} ]( {{ ./ }} )
+![ {{full screen on desktop }} ]( {{ screenshot_photo/Desktop_pg1.png}} )
+![ {{full screen on desktop }} ]( {{ screenshot_photo/Desktop_pg2.png}} )
+![ {{full screen on desktop }} ]( {{ screenshot_photo/Desktop_pg2.png}} )
+![ {{full screen on desktop }} ]( {{ screenshot_photo/Desktop_pg3.png}} )
+![ {{full screen on desktop }} ]( {{ screenshot_photo/Desktop_pg3.png}} )
 
+#### {{ Tablet version of the webpage }}
 
+![ {{full screen on tablet }} ]( {{ screenshot_photo/Tablet_pg1.png}} )
+![ {{full screen on tablet }} ]( {{ screenshot_photo/Tablet_pg2.png}} )
 
+#### {{ Mobile phone version of the webpage }}
 
+![ {{full screen on tablet }} ]( {{ 
+    ![ {{full screen on tablet }} ]( {{ screenshot_photo/Tablet_pg1.png}} )
+}} )
+![ {{full screen on tablet }} ]( {{ 
+    ![ {{full screen on tablet }} ]( {{ screenshot_photo/Tablet_pg2.png}} )
+}} )
+
+![ {{full screen on tablet }} ]( {{ 
+    ![ {{full screen on tablet }} ]( {{ screenshot_photo/Tablet_pg3.png}} )
+}} )
+
+![ {{full screen on tablet }} ]( {{  screenshot_photo/Tablet_pg4.png}} )
+
+#### {{ Features of the webpage }}
+
+![ {{Hover on hamburger menu }} ]( {{ screenshot_photo/Hover.jpg}} )
+
+![ {{Focus on hamburger menu }} ]( {{ screenshot_photo/Focus.jpg}} )
+
+![ {{Form Functionality  }} ]( {{ screenshot_photo/Form_pg1.png}} )
+
+![ {{Form Functionality  }} ]( {{ screenshot_photo/Form_pg2.png}} )
 
 
 
